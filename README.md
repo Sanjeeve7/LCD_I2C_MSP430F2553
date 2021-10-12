@@ -4,7 +4,8 @@
 # Vanakkam!
 This is a library which can be used to interface 16X2 LCD driven by Hitachi HD44780 Driver with MSP430G2553.
 But it could support almost all dimensions of LCD with Hitachi HD44780 Drivers.
- 
+This library is tested to be working successfully on Texas Instruments Code Composer Studio Version: 10.3.1.00003.
+
  The Connection is as follows:
  ***********************************
     LCD      GPIO PIN ON CONTROLLER/BOARD  
