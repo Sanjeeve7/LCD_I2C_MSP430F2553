@@ -2,12 +2,12 @@
 16X2 LCD with MSP430G2553 using I2C Protocol
 
 # Vanakkam!
-This is a library which can be use to interface 16X2 LCD driven by Hitachi HD44780 Driver with MSP430G2553.
+This is a library which can be used to interface 16X2 LCD driven by Hitachi HD44780 Driver with MSP430G2553.
 But it could support almost all dimensions of LCD with Hitachi HD44780 Drivers.
  
  The Connection is as follows:
  ***********************************
-    LCD      PIN ON CONTROLLER/BOARD  
+    LCD      GPIO PIN ON CONTROLLER/BOARD  
     VCC -->  5V                      
     GND -->  GND                     
     SDA -->  P1.7                    
